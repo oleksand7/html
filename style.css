@@ -6,6 +6,7 @@ section {
 img {
   width: 400px;
   heidth: 300px;
+  border-radius: 25px;
 }
 
 .header {
